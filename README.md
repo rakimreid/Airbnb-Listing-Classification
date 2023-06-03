@@ -1,7 +1,7 @@
 # Airbnb Listing Classification
 
 
-<img src = "https://2.bp.blogspot.com/-0-xkGLW6EJ8/V6OYaRZg9UI/AAAAAAAAHcI/x2hlKbhu1Lk143IG_igMsdQ8CAPFHge6ACLcB/s1600/giphy.gif"
+<img src = "https://2.bp.blogspot.com/-0-xkGLW6EJ8/V6OYaRZg9UI/AAAAAAAAHcI/x2hlKbhu1Lk143IG_igMsdQ8CAPFHge6ACLcB/s1600/giphy.gif">
      
 Background 
 
