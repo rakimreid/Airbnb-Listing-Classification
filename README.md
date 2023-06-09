@@ -9,6 +9,8 @@
 
 <h2> Background</h2> 
 
+Airbnb is an American San Francisco-based company operating an online marketplace for short and long-term
+homestays. The company serves as a broker between renters and hosts. 
 
 <h2> Part I: Exploratory Data Analysis <img src ="https://th.bing.com/th/id/OIP.j5Vj7VYXdSuB0Cho-HbMpgHaHa?pid=ImgDet&rs=1" height = 25, width = 25 />
 
@@ -35,15 +37,26 @@ We work towards a vision where data and information empower communities to under
      
 <h2>Supervised Learning</h2>
 
+The models tested are: 
 
-The tuned random forest classifier model performed the best out of the models.
+Random Forest
+Decision Tree
+Support Vector Machine
+XGBoost 
+Extra Trees (extremely randomized trees)
+![image](https://github.com/rakimreid/Airbnb-Listing-Classification/assets/23224784/4492c25c-edc0-46b9-a6fa-2ed3c0a8b47e)
 
-The biggest finding for me for this project was the poor performance of the regression models to predict price as a continuous variable. I switched to a classification method and the results completely flipped - from poor to good and almost model deploy-able.
-
-This means, at least, for AirBnB properties in Tokyo, classification methods are better than regression methods.  
-<h3>Models:</h3> 
+</h3> 
      
 <h3>Supervised Model Best Results:</h3>
+     
+The tuned random forest classifier model performed the best out of the models.
+
+The biggest finding for this project was the poor performance of the regression models to predict price as a continuous variable. I switched to a classification method and the results completely flipped - from poor to good and almost model deploy-able.
+
+This means, at least, for AirBnB properties in Tokyo, classification methods are better than regression methods.  
+
+<h3>Models:</h3>
      
 <h2> Part III: Evaluation & Future Project Ideas 
 <img src ="https://th.bing.com/th/id/R.b8644db24930cf9363566896d5253aec?rik=7SL6mGoqlQ0TNQ&riu=http%3a%2f%2fmedia.istockphoto.com%2fvectors%2fsaturn-vector-id165600450%3fk%3d6%26m%3d165600450%26s%3d612x612%26w%3d0%26h%3drEvVMsd4l40ib7bcrQzr1TzjkbLgRpcYPYGpYhJ9Nxo%3d&ehk=KabbCN8zzWnhbNSUIRMIS8eS0lrYNF2gRndPFaAxmOg%3d&risl=&pid=ImgRaw&r=0" height = 25, width = 25 />
