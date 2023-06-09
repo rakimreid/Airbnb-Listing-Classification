@@ -17,6 +17,15 @@
 
 <h3> The Data</h3> 
 
+The dataset comes from <a href= "http://insideairbnb.com/">Inside Airbnb</a>.
+
+Inside Airbnb's is a “mission driven project that provides data and advocacy about Airbnb's impact on residential communities.
+
+We work towards a vision where data and information empower communities to understand, decide and control the role of renting residential homes to tourists.”
+
+
+![image](https://github.com/rakimreid/Airbnb-Listing-Classification/assets/23224784/485e45ec-6c38-4405-9709-22205ca014b2)
+
 
 
 <h2> Part II: Supervised Learning
@@ -25,12 +34,16 @@
 </h2>
      
 <h2>Supervised Learning</h2>
-     
+
+
+The tuned random forest classifier model performed the best out of the models.
+
+The biggest finding for me for this project was the poor performance of the regression models to predict price as a continuous variable. I switched to a classification method and the results completely flipped - from poor to good and almost model deploy-able.
+
+This means, at least, for AirBnB properties in Tokyo, classification methods are better than regression methods.  
 <h3>Models:</h3> 
      
 <h3>Supervised Model Best Results:</h3>
-
-     
      
 <h2> Part III: Evaluation & Future Project Ideas 
 <img src ="https://th.bing.com/th/id/R.b8644db24930cf9363566896d5253aec?rik=7SL6mGoqlQ0TNQ&riu=http%3a%2f%2fmedia.istockphoto.com%2fvectors%2fsaturn-vector-id165600450%3fk%3d6%26m%3d165600450%26s%3d612x612%26w%3d0%26h%3drEvVMsd4l40ib7bcrQzr1TzjkbLgRpcYPYGpYhJ9Nxo%3d&ehk=KabbCN8zzWnhbNSUIRMIS8eS0lrYNF2gRndPFaAxmOg%3d&risl=&pid=ImgRaw&r=0" height = 25, width = 25 />
@@ -38,6 +51,20 @@
 </h2> 
      
 <h3> Evaluation:</h3>
+Tokyo's AirBnB property listing data has several characteristics that may make analysis challenging. Classification models, however, appear promising. Algorithms and models incorporating aggregated models are worth exploring. A single decision tree was less accurate than the Random Forest model. Classification on a hyperplane like in Support Vector Machines was even more inaccurate (.75), a ten point difference from the Random Forest model.
+
+<h3>Future Projects</h3>
+
+Future projects may:
+
+Use additional features to predict price (a binary feature) to produce a more accurate model potentially.
+
+Deploy the model into a web app.
+
+Use a different outcome feature for classification.
+
+Examine only one category of room_type to determine if different room types produce different results for a classification model.
+
+Use other model types including deep learning. This model's accuracy may have increase to 90%
      
 
-<h3> Future Goals:</h3>
