@@ -19,16 +19,9 @@ homestays. The company serves as a broker between renters and hosts.
 
 <h2>Data</h2> 
 
-The dataset comes from <a href= "http://insideairbnb.com/">Inside Airbnb</a>.
+The dataset comes from <a href="http://insideairbnb.com/">Inside Airbnb</a>.
 
-Inside Airbnb's is a “mission driven project that provides data and advocacy about Airbnb's impact on residential communities.
-
-We work towards a vision where data and information empower communities to understand, decide and control the role of renting residential homes to tourists.”
-
-
-![image](https://github.com/rakimreid/Airbnb-Listing-Classification/assets/23224784/485e45ec-6c38-4405-9709-22205ca014b2)
-
-
+Inside Airbnb's is a “mission driven project that provides data and advocacy about Airbnb's impact on residential communities. We work towards a vision where data and information empower communities to understand, decide and control the role of renting residential homes to tourists.”
 
 <h2> Part II: Supervised Learning
 
