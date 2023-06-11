@@ -28,7 +28,6 @@ Inside Airbnb's is a “mission driven project that provides data and advocacy a
 <img src ="https://th.bing.com/th/id/OIP.4u9QjWljrMuY5CL7nGzRkQHaFj?w=273&h=205&c=7&r=0&o=5&dpr=1.3&pid=1.7" height = 25, width = 25 />
 </h2>
      
-<h2>Supervised Learning</h2>
 
 The models tested were: 
 
