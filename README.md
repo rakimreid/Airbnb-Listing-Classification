@@ -17,7 +17,7 @@ homestays. The company serves as a broker between renters and hosts.
 </h2>
 
 
-<h2>Data</h2> 
+<h3>Data</h3> 
 
 The dataset comes from <a href="http://insideairbnb.com/">Inside Airbnb</a>.
 
@@ -30,17 +30,17 @@ Inside Airbnb's is a “mission driven project that provides data and advocacy a
      
 <h2>Supervised Learning</h2>
 
-The models tested are: 
+The models tested were: 
 
-Random Forest
-Decision Tree
-Support Vector Machine
-XGBoost 
-Extra Trees (extremely randomized trees)
+* Random Forest
+* Decision Tree
+* Support Vector Machine
+* XGBoost 
+* Extra Trees (extremely randomized trees)
 
 
      
-<h3>Supervised Model Best Results:</h3>
+<h3>Supervised Model Best Results</h3>
      
 The tuned random forest classifier model performed the best out of the models.
 
@@ -48,7 +48,6 @@ The biggest finding for this project was the poor performance of the regression 
 
 This means, at least, for AirBnB properties in Tokyo, classification methods are better than regression methods.  
 
-<h3>Models:</h3>
      
 <h2> Part III: Evaluation & Future Project Ideas 
 <img src ="https://th.bing.com/th/id/R.b8644db24930cf9363566896d5253aec?rik=7SL6mGoqlQ0TNQ&riu=http%3a%2f%2fmedia.istockphoto.com%2fvectors%2fsaturn-vector-id165600450%3fk%3d6%26m%3d165600450%26s%3d612x612%26w%3d0%26h%3drEvVMsd4l40ib7bcrQzr1TzjkbLgRpcYPYGpYhJ9Nxo%3d&ehk=KabbCN8zzWnhbNSUIRMIS8eS0lrYNF2gRndPFaAxmOg%3d&risl=&pid=ImgRaw&r=0" height = 25, width = 25 />
@@ -62,14 +61,14 @@ Tokyo's AirBnB property listing data has several characteristics that may make a
 
 Future projects may:
 
-Use additional features to predict price (a binary feature) to produce a more accurate model potentially.
+* Use additional features to predict price (a binary feature) to produce a more accurate model potentially.
 
-Deploy the model into a web app.
+* Deploy the model into a web app.
 
-Use a different outcome feature for classification.
+* Use a different outcome feature for classification.
 
-Examine only one category of room_type to determine if different room types produce different results for a classification model.
+* Examine only one category of room_type to determine if different room types produce different results for a classification model.
 
-Use other model types including deep learning. This model's accuracy may have increase to 90%
+* Use other model types including deep learning. This model's accuracy may have increase to 90%
      
 
