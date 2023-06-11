@@ -17,7 +17,7 @@ homestays. The company serves as a broker between renters and hosts.
 </h2>
 
 
-<h3> The Data</h3> 
+<h3>Data</h3> 
 
 The dataset comes from <a href= "http://insideairbnb.com/">Inside Airbnb</a>.
 
