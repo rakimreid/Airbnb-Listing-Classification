@@ -46,7 +46,7 @@ XGBoost
 Extra Trees (extremely randomized trees)
 ![image](https://github.com/rakimreid/Airbnb-Listing-Classification/assets/23224784/4492c25c-edc0-46b9-a6fa-2ed3c0a8b47e)
 
-</h3> 
+
      
 <h3>Supervised Model Best Results:</h3>
      
