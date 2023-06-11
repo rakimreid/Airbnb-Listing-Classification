@@ -7,7 +7,7 @@
 </div>
 
 
-<h2> Background</h2> 
+<h2>Background</h2> 
 
 Airbnb is an American San Francisco-based company operating an online marketplace for short and long-term
 homestays. The company serves as a broker between renters and hosts. 
@@ -17,7 +17,7 @@ homestays. The company serves as a broker between renters and hosts.
 </h2>
 
 
-<h3>Data</h3> 
+<h2>Data</h2> 
 
 The dataset comes from <a href= "http://insideairbnb.com/">Inside Airbnb</a>.
 
